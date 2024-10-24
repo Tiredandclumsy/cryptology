@@ -1,0 +1,2 @@
+An Oracle is an algorithm that can solve a given problem in constant time. The method by which this is completed does not need to be known, or even possible. 
+Oracles are mostly used in [[reduction|reductions]], where an oracle implements a given algorithm, and it is proven that another algorithm can be constructed assuming this oracle. 
